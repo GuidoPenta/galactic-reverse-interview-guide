@@ -19,5 +19,12 @@ Ci siamo? Let's go!
 
 
 - Quali saranno i task giornalieri che mi troverò a dover svolgere?
-- Ci sono degli obiettivi specifici che vi aspettate da me nei primi 30/60/90 giorni?
+- Ci sono degli obiettivi specifici che vi aspettate che io raggiunga nei primi 30/60/90 giorni?
+- L'orario di lavoro è il tipico 9-18 o concedete flessibilità?
+- Il lavoro è organizzato per obiettivi (quindi, senza alcun orario specifico)?
+- Esiste un modello di valutazione delle mie performance/obiettivi che raggiungo?
+- Come sarà composto il team nel quale andrò a lavorare?
+- Che tool di gestione dei task utilizzate?
+- Come siete arrivati a definire lo stack tecnologico attualmente in uso in azienda?
+- Siete soliti scrivere documentazione tecnica?
 - 

@@ -50,4 +50,12 @@ Ci siamo? Let's go!
 - Perchè voi dovreste scegliere me? Cosa vi ha colpito positivamente?
 - Che % di turnover avete avuto nell'ultimo anno?
 - C'è un budget previsto per l'home office?
-- .....work in progress
+- Quali sono la vision e la mission della vostra azienda?
+- Qual è il budget di investimento previsto per l'area in cui sarò inserito/a?
+- L'azienda è partner / sponsor di progetti che hanno un impatto sociale?
+- Qual è la vita aziendale e in che modo quest'ultima abbraccia i valori che vi contraddistinguono?
+- che versione usate della (tecnologia/linguaggio/framework)?
+- usate il controllo di versione? Se sì, quale?
+- fate contratto qualità del software?
+- fate unit test?
+- fate test automatici?

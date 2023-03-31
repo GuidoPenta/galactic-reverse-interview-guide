@@ -50,4 +50,4 @@ Ci siamo? Let's go!
 - Perchè voi dovreste scegliere me? Cosa vi ha colpito positivamente?
 - Che % di turnover avete avuto nell'ultimo anno?
 - C'è un budget previsto per l'home office?
-- 
+- .....work in progress

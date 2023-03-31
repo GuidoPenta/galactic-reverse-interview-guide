@@ -13,7 +13,7 @@ In questo particolare momento storico (e questo vale non solo per il mondo tech 
 
 Ecco quindi un elenco di domande, suddivise per "tema", che potresti usare durante un colloquio di lavoro.
 
-Ah, un'ultima cosa: Manco a dirlo, ma lo dico comunque: ovviamente, non chiederle tutte perché sennò il colloquio durerebbe circa 7 ore. Scegli il set di domande per te più adatto all'azienda che stai approcciando, considerando anche che ormai tantissime informazioni sull'azienda si possono facilmente reperire online.
+Ah, un'ultima cosa (manco a dirlo, ma lo dico comunque): ovviamente, non chiederle tutte perché sennò il colloquio durerebbe circa 7 ore. Scegli il set di domande per te più adatto all'azienda che stai approcciando, considerando anche che ormai tantissime informazioni sull'azienda si possono facilmente reperire online.
 
 Ci siamo? Let's go!
 

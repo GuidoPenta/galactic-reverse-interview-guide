@@ -63,3 +63,7 @@ Ci siamo? Let's go!
 - Fate contratto qualità del software?
 - Fate unit test?
 - Fate test automatici?
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>

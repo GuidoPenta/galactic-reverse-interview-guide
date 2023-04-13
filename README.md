@@ -1,6 +1,8 @@
 # Guida galattica alla Reverse Interview (ovvero, le domande da fare a chi ti sta colloquiando)
 
 > [English version](./docs/english.md)
+
+
 > [Spanish version](./docs/spanish.md)
 
 Ebbene sì, anche tu che dovrai sostenere un colloquio da candidato/a puoi fare delle domande a chi ti sta selezionando. Anzi, non è che puoi: devi farle!

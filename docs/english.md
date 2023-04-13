@@ -15,6 +15,5 @@ So here is a list of questions, broken down by "theme," that you might use durin
 
 Ah, one last thing (needless to say, but I'll say it anyway): of course, don't ask them all because otherwise the interview would last about 7 hours. Choose the set of questions for you best suited to the company you are approaching, also considering that so much information about the company can now be easily found online.
 
-Is this it? Let's go!
+Are you ready? Let's go!
 
-Translated with www.DeepL.com/Translator (free version)

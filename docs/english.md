@@ -1,4 +1,4 @@
-# Galactic Reverse Interview Guide
+# Galactic Reverse Interview Guide (i.e., the questions to ask those who are interviewing you)
 
 
 

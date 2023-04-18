@@ -1,16 +1,14 @@
 # Galactic Reverse Interview Guide (es decir, las preguntas que debes hacer a quienes te entrevisten)
 
-
-
-Pues sí, incluso tú, que vas a ser entrevistado como candidato, puedes hacer preguntas a quienes te están seleccionando. De hecho, no es sólo que puedas: ¡tienes que hacerlas!
+Pues sí, tú también, que vas a ser entrevistado como candidato, puedes hacer preguntas a quienes te están seleccionando. Es más, no es sólo que puedas: ¡tienes que hacerlas!
 
 Hacer preguntas es útil por muchas razones diferentes:
 
-Recuperar toda la información posible sobre la empresa para la que te vas a entrevistar Demostrar interés por la empresa Obtener una visión lo más completa posible del puesto, las funciones, el equipo y muchas otras cosas clave No hacerse el tonto ante la clásica pregunta de "entonces, ¿tiene alguna pregunta para nosotros?". En este momento concreto de la historia (y esto se aplica no sólo al mundo de la tecnología, sino a tantos sectores diferentes) es el candidato quien tiene poder de negociación, porque las empresas luchan por encontrar personas motivadas y cualificadas. En general, por tanto, no es sólo la empresa la que elige, sino también el candidato quien, inevitablemente, puede (y debe, en mi opinión) elegir la empresa adecuada para él o ella en ese momento concreto de su vida personal y profesional.
+Recuperar toda la información necesaria sobre la empresa para la cual vas a ser entrevistado, demuestra interés y te puede ayudar a obtener una mayor visión posible del puesto, las funciones, el equipo y muchas otras cosas clave. De hecho no tienes que quedarte en silencio ante la clásica pregunta: "¿tiene alguna pregunta para nosotros?". En ese exacto momendo (y esto se aplica no sólo al mundo de la tecnologia, sino a otros sectores diferentes) es el entrevistado quien tiene podes de negociación, porque las empresas luchan para encontrar personas motivadas, curiosas y cualificadas. En general, por tanto, no es sólo la empresa que elige, sino también el candidato quien, inevitablimente, puede y debe (en mi opinión) elegir la empresa adecuada para él/ella.
 
-Así que aquí tienes una lista de preguntas, desglosadas por "temas", que podrías utilizar durante una entrevista de trabajo.
+Aquí tienes una lista de preguntas, organizadas por "temas", que podrías utilizar durante una entrevista de trabajo.
 
-Ah, una última cosa (no hace falta decirla, pero la diré de todos modos): por supuesto, no las preguntes todas porque si no la entrevista duraría unas 7 horas. Elige el conjunto de preguntas que mejor se adapte a la empresa a la que te diriges, teniendo en cuenta además que hoy en día se puede encontrar fácilmente tanta información sobre la empresa en Internet.
+Ah, una última cosa (no hace falta decirla, pero la diré de todos modos): por supuesto, elige las preguntas correctas y no las hagas todas, sino la entrevista de trabajo duraría 7 horas. Elige las preguntas que mejor se adapte a la empresa a la que te diriges, teniendo en cuenta además que hoy en día se puede encontrar fácilmente tanta información sobre la empresa en Internet.
 
 ¿Estás preparado? Vamos allá.
 
@@ -53,5 +51,5 @@ Ah, una última cosa (no hace falta decirla, pero la diré de todos modos): por 
 - ¿Qué versión de (tecnología/lenguaje/marco) utiliza?
 - ¿Utilizan control de versiones? En caso afirmativo, ¿cuál?
 - ¿Contratas la calidad del software?
-- ¿Hace pruebas unitarias?
+- ¿Hace pruebas de unidad?
 - ¿Realiza pruebas automatizadas?

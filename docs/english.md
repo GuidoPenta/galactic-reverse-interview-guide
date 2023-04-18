@@ -25,37 +25,37 @@ Are you ready? Let's go!
 - Is there a model for evaluating my performance/goals that I achieve?
 - How will the team in which I go to work be composed?
 - What task management tools do you use?
-•	How did you come to define the technology stack currently in use in the company?
-•	Are you in the habit of writing technical documentation?
-•	Who within the company or my future team decides priorities?
-•	How many calls/meetings are typically scheduled in a week?
-•	Will I have the opportunity to do 1to1s with my manager/senior/tech lead/superior?
-•	Are there any particular critical issues that the team is facing at this time?
-•	Is there a chance to do pair programming?
-•	Is the industry in which the company operates economically healthy?
-•	How much turnover has the company had in the past two years?
-•	What turnover is expected in this year/next year?
-•	Is there a personal budget dedicated to training?
-•	How does the personal/professional review process work?
-•	Do you have an internal ladder that regulates professional/salary growth?
-•	Is there budget for certifications?
-•	How is the onboarding process structured?
-•	What collective bargaining agreement do you apply?
-•	What benefits are there (meal vouchers, production bonuses, corporate welfare, psychotherapy sessions, wellness in agreement, other)
-•	Does the company sponsor/support Open Source projects?
-•	Does the company sponsor/support/encourage people internally to take part as speakers at industry events?
-•	What value does the company place on work-life balance?
-•	What do you see as the biggest challenges relative to the industry in which you operate?
-•	Why should I choose your company?
-•	Why should you choose me? What has impressed you positively?
-•	What % turnover have you had in the past year?
-•	Is there a budget provided for the home office?
-•	What is the vision and mission of your company?
-•	What is the planned investment budget for the area in which I will be placed?
-•	Is the company a partner/sponsor of projects that have a social impact?
-•	What is the corporate life and how does the latter embrace your values?
-•	What version of (technology/language/framework) do you use?
-•	Do you use version control? If so, which one?
-•	Do you do software quality contracting?
-•	Do you do unit testing?
-•	Do you do automated testing?
+-	How did you come to define the technology stack currently in use in the company?
+-	Are you in the habit of writing technical documentation?
+-	Who within the company or my future team decides priorities?
+-	How many calls/meetings are typically scheduled in a week?
+-	Will I have the opportunity to do 1to1s with my manager/senior/tech lead/superior?
+-	Are there any particular critical issues that the team is facing at this time?
+-	Is there a chance to do pair programming?
+-	Is the industry in which the company operates economically healthy?
+-	How much turnover has the company had in the past two years?
+-	What turnover is expected in this year/next year?
+-	Is there a personal budget dedicated to training?
+-	How does the personal/professional review process work?
+-	Do you have an internal ladder that regulates professional/salary growth?
+-	Is there budget for certifications?
+-	How is the onboarding process structured?
+-	What collective bargaining agreement do you apply?
+-	What benefits are there (meal vouchers, production bonuses, corporate welfare, psychotherapy sessions, wellness in agreement, other)
+-	Does the company sponsor/support Open Source projects?
+-	Does the company sponsor/support/encourage people internally to take part as speakers at industry events?
+-	What value does the company place on work-life balance?
+-	What do you see as the biggest challenges relative to the industry in which you operate?
+-	Why should I choose your company?
+-	Why should you choose me? What has impressed you positively?
+-	What % turnover have you had in the past year?
+-	Is there a budget provided for the home office?
+-	What is the vision and mission of your company?
+-	What is the planned investment budget for the area in which I will be placed?
+-	Is the company a partner/sponsor of projects that have a social impact?
+-	What is the corporate life and how does the latter embrace your values?
+-	What version of (technology/language/framework) do you use?
+-	Do you use version control? If so, which one?
+-	Do you do software quality contracting?
+-	Do you do unit testing?
+-	Do you do automated testing?

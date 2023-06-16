@@ -1,4 +1,5 @@
 # Guida galattica alla Reverse Interview (ovvero, le domande da fare a chi ti sta colloquiando)
+# Galactic Reverse Interview Guide (i.e., the questions to ask those who are interviewing you)
 
 > [English version](./docs/english.md)
 

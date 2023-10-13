@@ -1,9 +1,9 @@
 # Guida galattica alla Reverse Interview (ovvero, le domande da fare a chi ti sta colloquiando)
 # Galactic Reverse Interview Guide (i.e., the questions to ask those who are interviewing you)
 
-> [English version](docs/english.md)
+[English version](docs/english.md)
 
-> [Spanish version](docs/spanish.md)
+[Spanish version](docs/spanish.md)
 
 Ebbene sì, anche tu che dovrai sostenere un colloquio da candidato/a puoi fare delle domande a chi ti sta selezionando. Anzi, non è che puoi: devi farle!
 
@@ -57,7 +57,7 @@ Ci siamo? Let's go!
 - Fate contratto qualità del software?
 - Fate unit test?
 - Fate test automatici?
-  
+
 ### Contratto, soldi
 - Quale CCNL applicate?
 - Che benefit ci sono? (Buoni pasto, premi produzione, welfare aziendale, sedute di psicoterapia, wellness in convenzione, altro)
@@ -68,12 +68,12 @@ Ci siamo? Let's go!
 ### Il mio posto nella vostra azienda
 - Ci sono degli obiettivi specifici che vi aspettate che io raggiunga nei primi 30/60/90 giorni?
 - Esiste un modello di valutazione delle mie performance/obiettivi che raggiungo?
-- Avrò la possibilità di fare dei 1to1 con il mio manager/senior/tech lead/superiore?  
+- Avrò la possibilità di fare dei 1to1 con il mio manager/senior/tech lead/superiore?
 - Come sarà composto il team nel quale andrò a lavorare?
 - Ci sono delle criticità particolari che il team sta affrontando in questo periodo?
 - Perché dovrei scegliere la vostra azienda?
 - Perché voi dovreste scegliere me? Cosa vi ha colpito positivamente?
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#guida-galattica-alla-reverse-interview-ovvero-le-domande-da-fare-a-chi-ti-sta-colloquiando">↥ Back To Top</a></b>
 </div>

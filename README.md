@@ -58,12 +58,13 @@ Ci siamo? Let's go!
 - Quali sono la vision e la mission della vostra azienda?
 - Qual è il budget di investimento previsto per l'area in cui sarò inserito/a?
 - L'azienda è partner / sponsor di progetti che hanno un impatto sociale?
-- Qual è la vita aziendale e in che modo quest'ultima abbraccia i valori che vi contraddistinguono?
+- Com'è la vita in azienda e in che modo quest'ultima abbraccia i valori che vi contraddistinguono?
 - Che versione usate della (tecnologia/linguaggio/framework)?
 - Usate il controllo di versione? Se sì, quale?
 - Fate contratto qualità del software?
 - Fate unit test?
 - Fate test automatici?
+- Posso scegliere il computer con il quale lavoro meglio (pc/MAC)?
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>

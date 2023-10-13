@@ -58,7 +58,7 @@ Ci siamo? Let's go!
 - Fate unit test?
 - Fate test automatici?
   
-### Contratto, soldi
+### Contrattualistica, burocrazia e parte economica
 - Quale CCNL applicate?
 - Che benefit ci sono? (Buoni pasto, premi produzione, welfare aziendale, sedute di psicoterapia, wellness in convenzione, altro)
 - C'è un budget previsto per l'home office?

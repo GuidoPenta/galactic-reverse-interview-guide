@@ -39,6 +39,7 @@ Ci siamo? Let's go!
 - Qual è la vita aziendale e in che modo quest'ultima abbraccia i valori che vi contraddistinguono?
 
 ### Organizzazione del lavoro
+- Com'e' strutturata una giornata tipo nella vostra azienda?
 - L'orario di lavoro è il tipico 9-18 o concedete flessibilità?
 - Il lavoro è organizzato per obiettivi (quindi, senza alcun orario specifico)?
 - Come è strutturato il percorso di onboarding?
@@ -48,6 +49,7 @@ Ci siamo? Let's go!
 - C'è possibilità di fare pair programming?
 - Come funziona il processo di review personale/professionale?
 - Che valore ha per l'azienda il work-life balance?
+- Che metodologia di sviluppo usate? (Agile, Scrum, etc)
 
 ### I tools
 - Posso scegliere il computer con il quale lavoro meglio (PC/Mac)?
